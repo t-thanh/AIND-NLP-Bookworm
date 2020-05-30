@@ -105,4 +105,4 @@ venv.bak/
 
 # model
 *.h5
-service-credentials.json
+*.json
